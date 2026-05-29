@@ -1,0 +1,6 @@
+{
+  "name": "AI Delay Explanation Generator",
+  "description": "An AI-powered professional shipping, logistics, and delivery delay notification generator supporting multiple communication channels, languages, and tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
